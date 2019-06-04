@@ -1,0 +1,12 @@
+{
+    "name": "Pool_Controller",
+    "description": "DIY Pool Controller",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_pool.json",
+            "credentialsFile": "flows_pool_cred.json"
+        }
+    }
+}
