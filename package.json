@@ -6,7 +6,7 @@
         "node-red-contrib-amazon-echo": "0.1.8",
         "node-red-contrib-light-scheduler": "0.0.15",
         "node-red-contrib-ui-led": "0.2.3",
-        "node-red-dashboard": "2.15.3"
+        "node-red-dashboard": "2.17.1"
     },
     "node-red": {
         "settings": {
